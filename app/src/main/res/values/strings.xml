@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkManagerDemo</string>
+    <string name="text_perform_work">Perform Work</string>
+</resources>
